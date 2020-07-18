@@ -1,4 +1,4 @@
-from bot import data, main
+import data, main
 
 import random
 
